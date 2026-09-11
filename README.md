@@ -2,7 +2,7 @@ Titanic Survival Prediction
 
 A student project using Python, Pandas, and scikit-learn to predict Titanic passenger survival.
 
-What I did
+What I did:
 
 Cleaned missing data.
 
