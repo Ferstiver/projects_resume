@@ -1,9 +1,10 @@
-# Projects
+#Machine Learning Projects
 
-## Student Pass/Fail Classifier
-Predicts whether a student passes or fails from study hours, attendance, previous score, and course.
+A collection of my machine learning projects.
 
-Files:
-- student_pass_fail.py
-- students_messy.csv
-- student_pass_fail_README.md
+Projects
+
+* Student Pass/Fail Prediction — Classification
+* Titanic Survival Prediction — Classification
+* Customer Segmentation — K-Means clustering with RFM analysis
+
