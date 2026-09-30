@@ -1,0 +1,1 @@
+I built a Titanic survival prediction project in Python. I cleaned and prepared the passenger data, handled missing values, selected useful features, and encoded categorical columns for machine learning. I trained a classification model to predict whether a passenger survived and evaluated its performance on a held-out test set.
